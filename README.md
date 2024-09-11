@@ -18,3 +18,4 @@ Set configs in ./config.py. Choose the model in ./model.py.
 
 ## Run
 Run ./run.py to run the code. 
+Type --help to see helps.
